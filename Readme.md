@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyBaseTabPageViewInfo.cs](./CS/MyRegistrator/MyBaseTabPageViewInfo.cs) (VB: [MyBaseTabPageViewInfo.vb](./VB/MyRegistrator/MyBaseTabPageViewInfo.vb))
+* [MyRegistrator.cs](./CS/MyRegistrator/MyRegistrator.cs) (VB: [MyRegistrator.vb](./VB/MyRegistrator/MyRegistrator.vb))
+* [MySkinTabHeaderViewInfo.cs](./CS/MyRegistrator/MySkinTabHeaderViewInfo.cs) (VB: [MySkinTabHeaderViewInfo.vb](./VB/MyRegistrator/MySkinTabHeaderViewInfo.vb))
+* [MySkinTabPainter.cs](./CS/MyRegistrator/MySkinTabPainter.cs) (VB: [MySkinTabPainter.vb](./VB/MyRegistrator/MySkinTabPainter.vb))
+* [MyTabControl.cs](./CS/MyTabControl/MyTabControl.cs) (VB: [MyTabControl.vb](./VB/MyTabControl/MyTabControl.vb))
+* [MyXtraTabPage.cs](./CS/MyTabControl/MyXtraTabPage.cs) (VB: [MyXtraTabPageCollection.vb](./VB/MyTabControl/MyXtraTabPageCollection.vb))
+* [MyXtraTabPageCollection.cs](./CS/MyTabControl/MyXtraTabPageCollection.cs) (VB: [MyXtraTabPageCollection.vb](./VB/MyTabControl/MyXtraTabPageCollection.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [XtraForm1.cs](./CS/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/XtraForm1.vb))
+<!-- default file list end -->
 # How to hide a tab page header
 
 
